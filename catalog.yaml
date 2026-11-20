@@ -3,21 +3,855 @@ bundles:
   - id: base-car
     kind: advcp-assets
     path: advcp/base-car
-  - id: generic-box-audi-a2
+  - id: modelnet40-car_0001
     kind: advcp-assets
-    path: advcp/generic-box-audi-a2
-  - id: generic-box-dodge-charger-2020
+    path: advcp/modelnet40-car_0001
+  - id: modelnet40-car_0002
     kind: advcp-assets
-    path: advcp/generic-box-dodge-charger-2020
-  - id: generic-box-lincoln-mkz-2017
+    path: advcp/modelnet40-car_0002
+  - id: modelnet40-car_0003
     kind: advcp-assets
-    path: advcp/generic-box-lincoln-mkz-2017
-  - id: generic-box-mercedes-coupe-2020
+    path: advcp/modelnet40-car_0003
+  - id: modelnet40-car_0004
     kind: advcp-assets
-    path: advcp/generic-box-mercedes-coupe-2020
-  - id: generic-box-tesla-model3
+    path: advcp/modelnet40-car_0004
+  - id: modelnet40-car_0005
     kind: advcp-assets
-    path: advcp/generic-box-tesla-model3
+    path: advcp/modelnet40-car_0005
+  - id: modelnet40-car_0006
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0006
+  - id: modelnet40-car_0007
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0007
+  - id: modelnet40-car_0008
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0008
+  - id: modelnet40-car_0009
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0009
+  - id: modelnet40-car_0010
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0010
+  - id: modelnet40-car_0011
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0011
+  - id: modelnet40-car_0012
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0012
+  - id: modelnet40-car_0013
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0013
+  - id: modelnet40-car_0014
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0014
+  - id: modelnet40-car_0015
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0015
+  - id: modelnet40-car_0016
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0016
+  - id: modelnet40-car_0017
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0017
+  - id: modelnet40-car_0018
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0018
+  - id: modelnet40-car_0019
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0019
+  - id: modelnet40-car_0020
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0020
+  - id: modelnet40-car_0022
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0022
+  - id: modelnet40-car_0023
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0023
+  - id: modelnet40-car_0024
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0024
+  - id: modelnet40-car_0025
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0025
+  - id: modelnet40-car_0026
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0026
+  - id: modelnet40-car_0027
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0027
+  - id: modelnet40-car_0028
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0028
+  - id: modelnet40-car_0029
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0029
+  - id: modelnet40-car_0030
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0030
+  - id: modelnet40-car_0032
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0032
+  - id: modelnet40-car_0033
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0033
+  - id: modelnet40-car_0034
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0034
+  - id: modelnet40-car_0035
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0035
+  - id: modelnet40-car_0036
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0036
+  - id: modelnet40-car_0037
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0037
+  - id: modelnet40-car_0038
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0038
+  - id: modelnet40-car_0039
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0039
+  - id: modelnet40-car_0040
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0040
+  - id: modelnet40-car_0041
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0041
+  - id: modelnet40-car_0042
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0042
+  - id: modelnet40-car_0043
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0043
+  - id: modelnet40-car_0044
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0044
+  - id: modelnet40-car_0045
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0045
+  - id: modelnet40-car_0046
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0046
+  - id: modelnet40-car_0047
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0047
+  - id: modelnet40-car_0048
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0048
+  - id: modelnet40-car_0049
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0049
+  - id: modelnet40-car_0050
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0050
+  - id: modelnet40-car_0051
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0051
+  - id: modelnet40-car_0052
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0052
+  - id: modelnet40-car_0053
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0053
+  - id: modelnet40-car_0054
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0054
+  - id: modelnet40-car_0055
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0055
+  - id: modelnet40-car_0056
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0056
+  - id: modelnet40-car_0057
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0057
+  - id: modelnet40-car_0058
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0058
+  - id: modelnet40-car_0059
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0059
+  - id: modelnet40-car_0060
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0060
+  - id: modelnet40-car_0061
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0061
+  - id: modelnet40-car_0062
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0062
+  - id: modelnet40-car_0063
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0063
+  - id: modelnet40-car_0064
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0064
+  - id: modelnet40-car_0065
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0065
+  - id: modelnet40-car_0066
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0066
+  - id: modelnet40-car_0067
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0067
+  - id: modelnet40-car_0068
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0068
+  - id: modelnet40-car_0069
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0069
+  - id: modelnet40-car_0071
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0071
+  - id: modelnet40-car_0072
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0072
+  - id: modelnet40-car_0073
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0073
+  - id: modelnet40-car_0074
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0074
+  - id: modelnet40-car_0075
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0075
+  - id: modelnet40-car_0076
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0076
+  - id: modelnet40-car_0077
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0077
+  - id: modelnet40-car_0078
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0078
+  - id: modelnet40-car_0079
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0079
+  - id: modelnet40-car_0080
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0080
+  - id: modelnet40-car_0081
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0081
+  - id: modelnet40-car_0082
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0082
+  - id: modelnet40-car_0083
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0083
+  - id: modelnet40-car_0084
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0084
+  - id: modelnet40-car_0085
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0085
+  - id: modelnet40-car_0086
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0086
+  - id: modelnet40-car_0087
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0087
+  - id: modelnet40-car_0088
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0088
+  - id: modelnet40-car_0089
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0089
+  - id: modelnet40-car_0090
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0090
+  - id: modelnet40-car_0091
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0091
+  - id: modelnet40-car_0092
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0092
+  - id: modelnet40-car_0093
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0093
+  - id: modelnet40-car_0094
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0094
+  - id: modelnet40-car_0095
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0095
+  - id: modelnet40-car_0096
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0096
+  - id: modelnet40-car_0097
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0097
+  - id: modelnet40-car_0098
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0098
+  - id: modelnet40-car_0099
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0099
+  - id: modelnet40-car_0100
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0100
+  - id: modelnet40-car_0101
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0101
+  - id: modelnet40-car_0102
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0102
+  - id: modelnet40-car_0103
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0103
+  - id: modelnet40-car_0104
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0104
+  - id: modelnet40-car_0105
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0105
+  - id: modelnet40-car_0106
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0106
+  - id: modelnet40-car_0107
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0107
+  - id: modelnet40-car_0108
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0108
+  - id: modelnet40-car_0109
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0109
+  - id: modelnet40-car_0110
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0110
+  - id: modelnet40-car_0111
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0111
+  - id: modelnet40-car_0112
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0112
+  - id: modelnet40-car_0113
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0113
+  - id: modelnet40-car_0114
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0114
+  - id: modelnet40-car_0115
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0115
+  - id: modelnet40-car_0116
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0116
+  - id: modelnet40-car_0117
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0117
+  - id: modelnet40-car_0118
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0118
+  - id: modelnet40-car_0119
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0119
+  - id: modelnet40-car_0120
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0120
+  - id: modelnet40-car_0121
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0121
+  - id: modelnet40-car_0122
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0122
+  - id: modelnet40-car_0123
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0123
+  - id: modelnet40-car_0124
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0124
+  - id: modelnet40-car_0125
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0125
+  - id: modelnet40-car_0127
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0127
+  - id: modelnet40-car_0128
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0128
+  - id: modelnet40-car_0129
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0129
+  - id: modelnet40-car_0130
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0130
+  - id: modelnet40-car_0131
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0131
+  - id: modelnet40-car_0132
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0132
+  - id: modelnet40-car_0133
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0133
+  - id: modelnet40-car_0134
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0134
+  - id: modelnet40-car_0135
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0135
+  - id: modelnet40-car_0136
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0136
+  - id: modelnet40-car_0137
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0137
+  - id: modelnet40-car_0138
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0138
+  - id: modelnet40-car_0139
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0139
+  - id: modelnet40-car_0140
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0140
+  - id: modelnet40-car_0141
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0141
+  - id: modelnet40-car_0142
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0142
+  - id: modelnet40-car_0143
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0143
+  - id: modelnet40-car_0145
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0145
+  - id: modelnet40-car_0146
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0146
+  - id: modelnet40-car_0147
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0147
+  - id: modelnet40-car_0148
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0148
+  - id: modelnet40-car_0149
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0149
+  - id: modelnet40-car_0150
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0150
+  - id: modelnet40-car_0151
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0151
+  - id: modelnet40-car_0152
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0152
+  - id: modelnet40-car_0153
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0153
+  - id: modelnet40-car_0154
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0154
+  - id: modelnet40-car_0155
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0155
+  - id: modelnet40-car_0156
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0156
+  - id: modelnet40-car_0157
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0157
+  - id: modelnet40-car_0158
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0158
+  - id: modelnet40-car_0159
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0159
+  - id: modelnet40-car_0160
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0160
+  - id: modelnet40-car_0161
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0161
+  - id: modelnet40-car_0162
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0162
+  - id: modelnet40-car_0163
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0163
+  - id: modelnet40-car_0164
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0164
+  - id: modelnet40-car_0165
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0165
+  - id: modelnet40-car_0166
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0166
+  - id: modelnet40-car_0168
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0168
+  - id: modelnet40-car_0169
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0169
+  - id: modelnet40-car_0170
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0170
+  - id: modelnet40-car_0172
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0172
+  - id: modelnet40-car_0173
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0173
+  - id: modelnet40-car_0174
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0174
+  - id: modelnet40-car_0175
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0175
+  - id: modelnet40-car_0176
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0176
+  - id: modelnet40-car_0177
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0177
+  - id: modelnet40-car_0178
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0178
+  - id: modelnet40-car_0179
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0179
+  - id: modelnet40-car_0180
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0180
+  - id: modelnet40-car_0181
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0181
+  - id: modelnet40-car_0182
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0182
+  - id: modelnet40-car_0183
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0183
+  - id: modelnet40-car_0184
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0184
+  - id: modelnet40-car_0185
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0185
+  - id: modelnet40-car_0186
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0186
+  - id: modelnet40-car_0187
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0187
+  - id: modelnet40-car_0188
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0188
+  - id: modelnet40-car_0189
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0189
+  - id: modelnet40-car_0190
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0190
+  - id: modelnet40-car_0191
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0191
+  - id: modelnet40-car_0192
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0192
+  - id: modelnet40-car_0193
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0193
+  - id: modelnet40-car_0194
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0194
+  - id: modelnet40-car_0195
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0195
+  - id: modelnet40-car_0196
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0196
+  - id: modelnet40-car_0197
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0197
+  - id: modelnet40-car_0198
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0198
+  - id: modelnet40-car_0199
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0199
+  - id: modelnet40-car_0200
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0200
+  - id: modelnet40-car_0201
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0201
+  - id: modelnet40-car_0202
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0202
+  - id: modelnet40-car_0203
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0203
+  - id: modelnet40-car_0204
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0204
+  - id: modelnet40-car_0205
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0205
+  - id: modelnet40-car_0206
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0206
+  - id: modelnet40-car_0207
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0207
+  - id: modelnet40-car_0208
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0208
+  - id: modelnet40-car_0209
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0209
+  - id: modelnet40-car_0210
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0210
+  - id: modelnet40-car_0211
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0211
+  - id: modelnet40-car_0212
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0212
+  - id: modelnet40-car_0213
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0213
+  - id: modelnet40-car_0214
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0214
+  - id: modelnet40-car_0215
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0215
+  - id: modelnet40-car_0216
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0216
+  - id: modelnet40-car_0217
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0217
+  - id: modelnet40-car_0218
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0218
+  - id: modelnet40-car_0219
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0219
+  - id: modelnet40-car_0220
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0220
+  - id: modelnet40-car_0221
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0221
+  - id: modelnet40-car_0222
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0222
+  - id: modelnet40-car_0223
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0223
+  - id: modelnet40-car_0224
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0224
+  - id: modelnet40-car_0225
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0225
+  - id: modelnet40-car_0227
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0227
+  - id: modelnet40-car_0228
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0228
+  - id: modelnet40-car_0229
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0229
+  - id: modelnet40-car_0230
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0230
+  - id: modelnet40-car_0231
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0231
+  - id: modelnet40-car_0233
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0233
+  - id: modelnet40-car_0234
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0234
+  - id: modelnet40-car_0235
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0235
+  - id: modelnet40-car_0237
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0237
+  - id: modelnet40-car_0238
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0238
+  - id: modelnet40-car_0239
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0239
+  - id: modelnet40-car_0240
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0240
+  - id: modelnet40-car_0241
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0241
+  - id: modelnet40-car_0242
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0242
+  - id: modelnet40-car_0243
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0243
+  - id: modelnet40-car_0245
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0245
+  - id: modelnet40-car_0246
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0246
+  - id: modelnet40-car_0247
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0247
+  - id: modelnet40-car_0248
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0248
+  - id: modelnet40-car_0249
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0249
+  - id: modelnet40-car_0250
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0250
+  - id: modelnet40-car_0251
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0251
+  - id: modelnet40-car_0253
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0253
+  - id: modelnet40-car_0254
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0254
+  - id: modelnet40-car_0255
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0255
+  - id: modelnet40-car_0256
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0256
+  - id: modelnet40-car_0257
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0257
+  - id: modelnet40-car_0258
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0258
+  - id: modelnet40-car_0259
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0259
+  - id: modelnet40-car_0260
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0260
+  - id: modelnet40-car_0261
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0261
+  - id: modelnet40-car_0262
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0262
+  - id: modelnet40-car_0263
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0263
+  - id: modelnet40-car_0264
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0264
+  - id: modelnet40-car_0265
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0265
+  - id: modelnet40-car_0266
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0266
+  - id: modelnet40-car_0267
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0267
+  - id: modelnet40-car_0268
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0268
+  - id: modelnet40-car_0269
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0269
+  - id: modelnet40-car_0270
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0270
+  - id: modelnet40-car_0271
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0271
+  - id: modelnet40-car_0272
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0272
+  - id: modelnet40-car_0273
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0273
+  - id: modelnet40-car_0275
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0275
+  - id: modelnet40-car_0276
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0276
+  - id: modelnet40-car_0277
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0277
+  - id: modelnet40-car_0278
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0278
+  - id: modelnet40-car_0279
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0279
+  - id: modelnet40-car_0280
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0280
+  - id: modelnet40-car_0281
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0281
+  - id: modelnet40-car_0283
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0283
+  - id: modelnet40-car_0284
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0284
+  - id: modelnet40-car_0285
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0285
+  - id: modelnet40-car_0286
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0286
+  - id: modelnet40-car_0287
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0287
+  - id: modelnet40-car_0288
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0288
+  - id: modelnet40-car_0289
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0289
+  - id: modelnet40-car_0290
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0290
+  - id: modelnet40-car_0291
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0291
+  - id: modelnet40-car_0292
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0292
+  - id: modelnet40-car_0293
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0293
+  - id: modelnet40-car_0294
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0294
+  - id: modelnet40-car_0295
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0295
+  - id: modelnet40-car_0296
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0296
+  - id: modelnet40-car_0297
+    kind: advcp-assets
+    path: advcp/modelnet40-car_0297
   - id: fpvrcnn-intermediateV2-opv2v-40
     kind: coperception-checkpoint
     path: coperception/fpvrcnn-intermediateV2-opv2v-40
