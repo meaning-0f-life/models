@@ -1,0 +1,15 @@
+schema_version: 1
+id: modelnet40-car_0156
+kind: advcp-assets
+version: 1
+source:
+  repository: "ModelNet40"
+  url: "https://modelnet.cs.princeton.edu/"
+  license: "research-only"
+artifacts:
+  - path: "car_mesh.ply"
+    size: 147835
+    sha256: c30bedbff207c8ef5695519edae1ecb34e55973472b0d795448f6db1ecfa54ff
+  - path: "spoof/car_mesh_divide.pkl"
+    size: 11421
+    sha256: 389f80c2ad43f5132ad112349b54641cb3ec3a90b31811aac04817b29c1d79fb
